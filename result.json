@@ -1,0 +1,362 @@
+{
+  "美杜莎": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 13
+  },
+  "清姬": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 12
+  },
+  "阿斯托爾福": {
+    "type": "SERVANT",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "布狄卡": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 14
+  },
+  "荊軻": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 16
+  },
+  "牛若丸": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 14
+  },
+  "限制/零毀": {
+    "type": "CE",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "寶石劍澤爾里奇": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 13
+  },
+  "秉持優雅": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "ZUNGA_ZUNGA": {
+    "type": "CE",
+    "star": 3,
+    "PU": true,
+    "count": 10
+  },
+  "伊莉雅絲菲爾．馮．愛因茲貝倫": {
+    "type": "SERVANT",
+    "star": 5,
+    "PU": true,
+    "count": 5
+  },
+  "波濤之獸": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 4
+  },
+  "見敵必殺": {
+    "type": "CE",
+    "star": 4,
+    "PU": true,
+    "count": 10
+  },
+  "靜謐哈桑": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 12
+  },
+  "四枝之淺灘": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 6
+  },
+  "摩托．裝甲騎兵": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 5
+  },
+  "獅子玩偶": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 7
+  },
+  "美狄亞": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 15
+  },
+  "童謠": {
+    "type": "SERVANT",
+    "star": 4,
+    "PU": true,
+    "count": 4
+  },
+  "白鸛騎士": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 8
+  },
+  "阿蘭若": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 8
+  },
+  "逝去之夢": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 4
+  },
+  "尤瑞艾莉": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 10
+  },
+  "鋼之鍛練": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 2
+  },
+  "覺醒的意志": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "投影魔術": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 2
+  },
+  "一之太刀": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 2
+  },
+  "萬華鏡": {
+    "type": "CE",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "百貌哈桑": {
+    "type": "SERVANT",
+    "star": 3,
+    "PU": false,
+    "count": 9
+  },
+  "愛之靈藥": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 5
+  },
+  "安妮．伯妮&瑪莉．瑞德": {
+    "type": "SERVANT",
+    "star": 4,
+    "PU": false,
+    "count": 2
+  },
+  "阿爾托莉雅．潘德拉貢": {
+    "type": "SERVANT",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "蒼玉之魔法少女": {
+    "type": "CE",
+    "star": 5,
+    "PU": true,
+    "count": 1
+  },
+  "玉藻貓": {
+    "type": "SERVANT",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "卡姆蘭之戰": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 1
+  },
+  "Bronze-Link_Manipulators": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 6
+  },
+  "自我束縛卷軸": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 3
+  },
+  "寶石魔術．對影": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "2030年的碎片": {
+    "type": "CE",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "月靈髓液": {
+    "type": "CE",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "海倫娜．布拉瓦茨基": {
+    "type": "SERVANT",
+    "star": 4,
+    "PU": true,
+    "count": 3
+  },
+  "虛數環": {
+    "type": "CE",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "時鐘塔": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 2
+  },
+  "毒蛇一藝": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 2
+  },
+  "死之藝術": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 2
+  },
+  "另一個結局": {
+    "type": "CE",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "特辣麻婆豆腐": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 3
+  },
+  "天之晚餐": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "千年黃金樹": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "綠之破音": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "魔力計": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 1
+  },
+  "柳洞寺": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 5
+  },
+  "阿蒂拉": {
+    "type": "SERVANT",
+    "star": 5,
+    "PU": false,
+    "count": 1
+  },
+  "指令詠唱": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "柔軟的慈愛": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "抹大拉的聖骸布": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "紀錄保持者": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "魯格的光環": {
+    "type": "CE",
+    "star": 3,
+    "PU": false,
+    "count": 1
+  },
+  "援護射擊": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  },
+  "死靈魔術": {
+    "type": "CE",
+    "star": 4,
+    "PU": false,
+    "count": 1
+  }
+}
