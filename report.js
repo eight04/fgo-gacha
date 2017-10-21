@@ -23,12 +23,12 @@ for (const r of Object.values(data)) {
 
 console.log(`總共 ${total} 抽\n`)
 
-console.log("各星數從者/禮裝所佔比例︰")
+console.log("各星數從者/禮裝所佔比例︰\n")
 
 for (const type of Object.keys(result)) {
 	for (const star of [5, 4, 3]) {
-		console.log(`★${star}${_[type]} ${(result[type][star].count * 100 / total).toFixed(2)}%`);
-		console.log(`★${star}${_[type]}(PU) ${(result[type][star].pu * 100 / total).toFixed(2)}%`);
+		console.log(`* ★${star}${_[type]} ${(result[type][star].count * 100 / total).toFixed(2)}%`);
+		console.log(`* ★${star}${_[type]}(PU) ${(result[type][star].pu * 100 / total).toFixed(2)}%`);
 	}
 }
 
@@ -47,9 +47,9 @@ for (const [name, detail] of Object.entries(data)) {
 }
 
 for (const star of Object.keys(servants)) {
-	console.log(`★${star}${_.SERVANT}︰`);
+	console.log(`★${star}${_.SERVANT}︰\n`);
 	for (const sv of servants[star]) {
-		console.log(`${sv.name} x ${sv.count}`);
+		console.log(`* ${sv.name} x ${sv.count}`);
 	}
 	console.log("");
 }
@@ -66,9 +66,9 @@ for (const [name, detail] of Object.entries(data)) {
 }
 
 for (const star of Object.keys(ces)) {
-	console.log(`★${star}PU${_.CE}︰`);
+	console.log(`★${star}PU${_.CE}︰\n`);
 	for (const ce of ces[star]) {
-		console.log(`${ce.name} x ${ce.count}`);
+		console.log(`* ${ce.name} x ${ce.count}`);
 	}
 	console.log("");
 }
