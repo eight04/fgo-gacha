@@ -25,12 +25,29 @@ console.log(`總共 ${total} 抽\n`)
 
 console.log("各星數從者/禮裝所佔比例︰\n")
 
+const table = [["類型", "比例"]];
+
 for (const type of Object.keys(result)) {
 	for (const star of [5, 4, 3]) {
-		console.log(`* ★${star}${_[type]} ${(result[type][star].count * 100 / total).toFixed(2)}%`);
-		console.log(`* ★${star}${_[type]}(PU) ${(result[type][star].pu * 100 / total).toFixed(2)}%`);
+		table.push([
+			`★${star}${_[type]}`,
+			`${(result[type][star].count * 100 / total).toFixed(2)}%`
+		]);
+		table.push([
+			`★${star}${_[type]}(PU)`,
+			`${(result[type][star].pu * 100 / total).toFixed(2)}%`
+		]);
 	}
 }
+
+function stringLength(s) {
+	return ttyTextSize(s, {ambsize: 2});
+}
+
+console.log(require("markdown-table")(table, {
+	align: ["l", "r"],
+	stringLength: require("power-assert-util-string-width")
+}));
 
 console.log("");
 

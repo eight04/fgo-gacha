@@ -1,0 +1,22 @@
+{
+  "name": "fgo-gacha",
+  "version": "0.0.0",
+  "description": "這個 REPO 記錄了在 Fate/Grand Order Bilibili 服，伊莉雅 Pickup 卡池的抽卡結果。",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eight04/fgo-gacha.git"
+  },
+  "author": "eight <eight04@gmail.com> (http://eight04.blogspot.tw)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eight04/fgo-gacha/issues"
+  },
+  "homepage": "https://github.com/eight04/fgo-gacha#readme",
+  "dependencies": {
+    "markdown-table": "^1.1.1",
+    "power-assert-util-string-width": "^1.1.1"
+  }
+}
