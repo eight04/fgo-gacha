@@ -1,0 +1,382 @@
+{
+  "美杜莎": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "清姬": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "阿斯托爾福": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "布狄卡": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "荊軻": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "牛若丸": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "限制/零毀": {
+    "type": "CE",
+    "star": 5
+  },
+  "寶石劍澤爾里奇": {
+    "type": "CE",
+    "star": 3
+  },
+  "秉持優雅": {
+    "type": "CE",
+    "star": 4
+  },
+  "ZUNGA_ZUNGA": {
+    "type": "CE",
+    "star": 3
+  },
+  "伊莉雅絲菲爾．馮．愛因茲貝倫": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "波濤之獸": {
+    "type": "CE",
+    "star": 3
+  },
+  "見敵必殺": {
+    "type": "CE",
+    "star": 4
+  },
+  "靜謐哈桑": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "四枝之淺灘": {
+    "type": "CE",
+    "star": 3
+  },
+  "摩托．裝甲騎兵": {
+    "type": "CE",
+    "star": 3
+  },
+  "獅子玩偶": {
+    "type": "CE",
+    "star": 3
+  },
+  "美狄亞": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "童謠": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "白鸛騎士": {
+    "type": "CE",
+    "star": 3
+  },
+  "阿蘭若": {
+    "type": "CE",
+    "star": 3
+  },
+  "逝去之夢": {
+    "type": "CE",
+    "star": 3
+  },
+  "尤瑞艾莉": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "鋼之鍛練": {
+    "type": "CE",
+    "star": 4
+  },
+  "覺醒的意志": {
+    "type": "CE",
+    "star": 4
+  },
+  "投影魔術": {
+    "type": "CE",
+    "star": 4
+  },
+  "一之太刀": {
+    "type": "CE",
+    "star": 4
+  },
+  "萬華鏡": {
+    "type": "CE",
+    "star": 5
+  },
+  "百貌哈桑": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "愛之靈藥": {
+    "type": "CE",
+    "star": 3
+  },
+  "安妮．伯妮&瑪莉．瑞德": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "阿爾托莉雅．潘德拉貢": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "蒼玉之魔法少女": {
+    "type": "CE",
+    "star": 5
+  },
+  "玉藻貓": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "卡姆蘭之戰": {
+    "type": "CE",
+    "star": 3
+  },
+  "Bronze-Link_Manipulators": {
+    "type": "CE",
+    "star": 3
+  },
+  "自我束縛卷軸": {
+    "type": "CE",
+    "star": 3
+  },
+  "寶石魔術．對影": {
+    "type": "CE",
+    "star": 4
+  },
+  "2030年的碎片": {
+    "type": "CE",
+    "star": 5
+  },
+  "月靈髓液": {
+    "type": "CE",
+    "star": 5
+  },
+  "海倫娜．布拉瓦茨基": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "虛數環": {
+    "type": "CE",
+    "star": 5
+  },
+  "時鐘塔": {
+    "type": "CE",
+    "star": 3
+  },
+  "毒蛇一藝": {
+    "type": "CE",
+    "star": 4
+  },
+  "死之藝術": {
+    "type": "CE",
+    "star": 4
+  },
+  "另一個結局": {
+    "type": "CE",
+    "star": 5
+  },
+  "特辣麻婆豆腐": {
+    "type": "CE",
+    "star": 3
+  },
+  "天之晚餐": {
+    "type": "CE",
+    "star": 4
+  },
+  "千年黃金樹": {
+    "type": "CE",
+    "star": 4
+  },
+  "綠之破音": {
+    "type": "CE",
+    "star": 4
+  },
+  "魔力計": {
+    "type": "CE",
+    "star": 3
+  },
+  "柳洞寺": {
+    "type": "CE",
+    "star": 3
+  },
+  "阿蒂拉": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "指令詠唱": {
+    "type": "CE",
+    "star": 4
+  },
+  "柔軟的慈愛": {
+    "type": "CE",
+    "star": 4
+  },
+  "抹大拉的聖骸布": {
+    "type": "CE",
+    "star": 4
+  },
+  "紀錄保持者": {
+    "type": "CE",
+    "star": 4
+  },
+  "魯格的光環": {
+    "type": "CE",
+    "star": 3
+  },
+  "援護射擊": {
+    "type": "CE",
+    "star": 4
+  },
+  "死靈魔術": {
+    "type": "CE",
+    "star": 4
+  },
+  "瑪麗": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "天之逆月": {
+    "type": "CE",
+    "star": 3
+  },
+  "羅賓漢": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "杰羅尼莫": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "理想的王聖": {
+    "type": "CE",
+    "star": 5
+  },
+  "大衛": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "萬聖節籌備": {
+    "type": "CE",
+    "star": 4
+  },
+  "大流士三世": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "南瓜杰克": {
+    "type": "CE",
+    "star": 3
+  },
+  "佛拉格拉克": {
+    "type": "CE",
+    "star": 3
+  },
+  "查爾斯．巴貝奇": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "卡米拉": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "梅菲斯托費勒斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "吉爾德雷": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "幼吉爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "迪爾姆德．奧迪那": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "開膛手傑克": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "封印指定-執行者": {
+    "type": "CE",
+    "star": 4
+  },
+  "羅穆路斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "尼托克麗絲": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "許德拉匕首": {
+    "type": "CE",
+    "star": 3
+  },
+  "馮．霍恩海姆．帕拉塞爾蘇斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "風魔小太郎": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "蓋烏斯．由利烏斯．凱薩": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "亞歷山大": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "玉藻前": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "庫丘林": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "赫克托爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "呂布奉先": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "表藤太": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "原始咒術": {
+    "type": "CE",
+    "star": 4
+  },
+  "亨利．傑基爾&海德": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "弗蘭肯斯坦": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "弗格斯．馬克．洛伊": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "萬聖節小惡魔": {
+    "type": "CE",
+    "star": 5
+  }
+}
