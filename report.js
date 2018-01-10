@@ -33,6 +33,12 @@ console.log("各星數從者/禮裝所佔比例︰\n")
 	
 	for (const type of Object.keys(result)) {
 		for (const star of [5, 4, 3]) {
+      if (!result[type][star]) {
+        result[type][star] = {
+          count: 0,
+          pu: 0
+        };
+      }
 			table.push([
 				`★${star}${_[type]}`,
 				`${(result[type][star].count * 100 / data.length).toFixed(2)}%`

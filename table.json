@@ -378,5 +378,33 @@
   "萬聖節小惡魔": {
     "type": "CE",
     "star": 5
+  },
+  "情竇未開的千金": {
+    "type": "CE",
+    "star": 4
+  },
+  "天使之詩": {
+    "type": "CE",
+    "star": 4
+  },
+  "符文石": {
+    "type": "CE",
+    "star": 3
+  },
+  "揚帆遠航": {
+    "type": "CE",
+    "star": 3
+  },
+  "魔豬": {
+    "type": "CE",
+    "star": 3
+  },
+  "聖者的軀殼": {
+    "type": "CE",
+    "star": 5
+  },
+  "Emiya[Assassin]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }

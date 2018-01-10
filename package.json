@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "這個 REPO 記錄了在 Fate/Grand Order Bilibili 服，伊莉雅 Pickup 卡池的抽卡結果。",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build-table": "node build-table.js",
+    "build-report": "node report.js > report.md"
   },
   "repository": {
     "type": "git",
