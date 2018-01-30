@@ -406,5 +406,45 @@
   "Emiya[Assassin]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "朗讀勸進賬": {
+    "type": "CE",
+    "star": 3
+  },
+  "比利小子": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "子吉爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "弗朗西斯．德雷克": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "弗格斯．馬克．羅伊": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "戀談火焰行": {
+    "type": "CE",
+    "star": 4
+  },
+  "百貌的哈桑": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "赫克特": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "蘆葦海": {
+    "type": "CE",
+    "star": 3
+  },
+  "酒吞童子": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
