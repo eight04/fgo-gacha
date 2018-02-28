@@ -446,5 +446,49 @@
   "酒吞童子": {
     "type": "SERVANT",
     "star": 5
+  },
+  "騎士的矜持": {
+    "type": "CE",
+    "star": 4
+  },
+  "Bronze-link_Manipulators": {
+    "type": "CE",
+    "star": 3
+  },
+  "蘭斯洛特": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "亨利．杰基爾&海德": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "弗拉德三世": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "蓋烏斯．尤利烏斯．凱薩": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "奇蹟求道者": {
+    "type": "CE",
+    "star": 3
+  },
+  "私室警備員": {
+    "type": "CE",
+    "star": 4
+  },
+  "封印指定執行者": {
+    "type": "CE",
+    "star": 4
+  },
+  "覺醒之前": {
+    "type": "CE",
+    "star": 5
+  },
+  "庫．丘林": {
+    "type": "SERVANT",
+    "star": 3
   }
 }
