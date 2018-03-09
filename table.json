@@ -490,5 +490,29 @@
   "庫．丘林": {
     "type": "SERVANT",
     "star": 3
+  },
+  "忠犬蓄勢待發": {
+    "type": "CE",
+    "star": 4
+  },
+  "虛數魔術": {
+    "type": "CE",
+    "star": 4
+  },
+  "迪爾姆德．奧德利暗": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "吉爾．德．萊斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "秘劍．雉雞返": {
+    "type": "CE",
+    "star": 3
+  },
+  "茨木童子": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
