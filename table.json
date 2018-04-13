@@ -530,5 +530,29 @@
   "巧克力天使": {
     "type": "CE",
     "star": 4
+  },
+  "烤肉大戰": {
+    "type": "CE",
+    "star": 4
+  },
+  "虛影之塵風刨冰": {
+    "type": "CE",
+    "star": 3
+  },
+  "靜謐的哈桑": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "羅慕路斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "阿爾托莉工．潘德拉剛": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "瑪爾大[Ruler]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
