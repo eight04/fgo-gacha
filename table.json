@@ -554,5 +554,37 @@
   "瑪爾大[Ruler]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "俵藤太": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "聖者的招待": {
+    "type": "CE",
+    "star": 3
+  },
+  "赫拉克勒斯": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "庫．夫林": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "傑羅尼莫": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "封印指定_執行者": {
+    "type": "CE",
+    "star": 4
+  },
+  "聖夜的閱讀": {
+    "type": "CE",
+    "star": 4
+  },
+  "聖者的驅殼": {
+    "type": "CE",
+    "star": 5
   }
 }
