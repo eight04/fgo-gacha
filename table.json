@@ -586,5 +586,25 @@
   "聖者的驅殼": {
     "type": "CE",
     "star": 5
+  },
+  "宇宙稜鏡": {
+    "type": "CE",
+    "star": 5
+  },
+  "吉爾．德．萊斯[Caster]": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "庫．夫林[Prototype]": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "貝德維爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "吉爾伽美什[Caster]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
