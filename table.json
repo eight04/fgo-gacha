@@ -606,5 +606,25 @@
   "吉爾伽美什[Caster]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "艷麗拳舞": {
+    "type": "CE",
+    "star": 4
+  },
+  "重複魔術": {
+    "type": "CE",
+    "star": 3
+  },
+  "記錄保持者": {
+    "type": "CE",
+    "star": 4
+  },
+  "老成之翁": {
+    "type": "CE",
+    "star": 5
+  },
+  "兩儀式": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
