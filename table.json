@@ -638,5 +638,9 @@
   "朝日初升": {
     "type": "CE",
     "star": 5
+  },
+  "Gandr": {
+    "type": "CE",
+    "star": 4
   }
 }
