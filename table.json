@@ -642,5 +642,9 @@
   "Gandr": {
     "type": "CE",
     "star": 4
+  },
+  "Meltryllis": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
