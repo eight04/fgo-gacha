@@ -646,5 +646,117 @@
   "Meltryllis": {
     "type": "SERVANT",
     "star": 5
+  },
+  "謎之面具群": {
+    "type": "CE",
+    "star": 3
+  },
+  "齊格飛": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "手無寸鐵慎二君": {
+    "type": "CE",
+    "star": 3
+  },
+  "神造兵器": {
+    "type": "CE",
+    "star": 3
+  },
+  "固有結界": {
+    "type": "CE",
+    "star": 3
+  },
+  "返老還童的靈藥": {
+    "type": "CE",
+    "star": 3
+  },
+  "阿特拉斯院": {
+    "type": "CE",
+    "star": 3
+  },
+  "自由業者": {
+    "type": "CE",
+    "star": 3
+  },
+  "幻想種": {
+    "type": "CE",
+    "star": 3
+  },
+  "瓦礫的聖堂": {
+    "type": "CE",
+    "star": 3
+  },
+  "吉爾．德．雷": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "噬魂": {
+    "type": "CE",
+    "star": 3
+  },
+  "寶藏院胤舜": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "武則天": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "示巴女王": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "赫克托耳": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "瑪麗．安托瓦內特": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "聖者憑依之軀": {
+    "type": "CE",
+    "star": 5
+  },
+  "貝奧武夫": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "瑪爾達": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "阿比蓋爾．威廉姆斯": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "五百年的執著": {
+    "type": "CE",
+    "star": 5
+  },
+  "弗拉德三世[Lancer]": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "宇宙棱鏡": {
+    "type": "CE",
+    "star": 5
+  },
+  "天之杯": {
+    "type": "CE",
+    "star": 5
+  },
+  "西行者": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "天堂之孔": {
+    "type": "CE",
+    "star": 5
+  },
+  "阿周那": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
