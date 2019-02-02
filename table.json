@@ -758,5 +758,21 @@
   "阿周那": {
     "type": "SERVANT",
     "star": 5
+  },
+  "自由職業者": {
+    "type": "CE",
+    "star": 3
+  },
+  "俄里翁": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "Bronze_Link_Manipulators": {
+    "type": "CE",
+    "star": 3
+  },
+  "美杜莎[Lancer]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
