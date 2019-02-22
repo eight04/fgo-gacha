@@ -774,5 +774,25 @@
   "美杜莎[Lancer]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "不夜城的Caster": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "黃金國的Berserker": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "庫丘林[Prototype]": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "大流世三世": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "鋼之鍛煉": {
+    "type": "CE",
+    "star": 4
   }
 }
