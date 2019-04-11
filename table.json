@@ -794,5 +794,37 @@
   "鋼之鍛煉": {
     "type": "CE",
     "star": 4
+  },
+  "阿爾托莉雅．潘德拉剛[Rider]": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "King．Joker．Jack": {
+    "type": "CE",
+    "star": 4
+  },
+  "芬恩．麥克庫爾": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "盛夏一刻": {
+    "type": "CE",
+    "star": 5
+  },
+  "霍恩海姆": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "Emiya": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "迦勒底沙灘排球": {
+    "type": "CE",
+    "star": 3
+  },
+  "海倫娜．布拉瓦茨基[Archer]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
