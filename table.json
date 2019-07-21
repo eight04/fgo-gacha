@@ -838,5 +838,17 @@
   "Assassin．Paraiso": {
     "type": "SERVANT",
     "star": 4
+  },
+  "馮．霍恩海姆": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "Bronze-Link_Manipulations": {
+    "type": "CE",
+    "star": 3
+  },
+  "俄刻阿諾斯的Caster": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
