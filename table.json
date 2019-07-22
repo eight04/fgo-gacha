@@ -850,5 +850,13 @@
   "俄刻阿諾斯的Caster": {
     "type": "SERVANT",
     "star": 4
+  },
+  "雪盜": {
+    "type": "CE",
+    "star": 3
+  },
+  "埃列什基伊勒": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
