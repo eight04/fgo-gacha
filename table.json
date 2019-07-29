@@ -858,5 +858,17 @@
   "埃列什基伊勒": {
     "type": "SERVANT",
     "star": 5
+  },
+  "尼托克里絲": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "Bronze_Link-Manipulators": {
+    "type": "CE",
+    "star": 3
+  },
+  "米德拉什的Caster": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
