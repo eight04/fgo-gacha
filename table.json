@@ -870,5 +870,13 @@
   "米德拉什的Caster": {
     "type": "SERVANT",
     "star": 4
+  },
+  "短跑選手": {
+    "type": "CE",
+    "star": 3
+  },
+  "淺上藤乃": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
