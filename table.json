@@ -878,5 +878,25 @@
   "淺上藤乃": {
     "type": "SERVANT",
     "star": 4
+  },
+  "戰友": {
+    "type": "CE",
+    "star": 4
+  },
+  "願之所嚮": {
+    "type": "CE",
+    "star": 5
+  },
+  "夢之痕跡": {
+    "type": "CE",
+    "star": 3
+  },
+  "阿爾托莉雅．潘德拉剛": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "尼托克里斯": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
