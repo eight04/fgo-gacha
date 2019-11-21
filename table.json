@@ -898,5 +898,65 @@
   "尼托克里斯": {
     "type": "SERVANT",
     "star": 4
+  },
+  "足柄兄弟": {
+    "type": "CE",
+    "star": 3
+  },
+  "Welcome_to_ONILAND": {
+    "type": "CE",
+    "star": 5
+  },
+  "望月千代女": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "月之勝利者": {
+    "type": "CE",
+    "star": 5
+  },
+  "遍染豔紅": {
+    "type": "CE",
+    "star": 4
+  },
+  "阿維斯布隆": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "吉爾．德．雷[Saber]": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "羅寶漢": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "睿智之光": {
+    "type": "CE",
+    "star": 3
+  },
+  "櫻的特製便當": {
+    "type": "CE",
+    "star": 3
+  },
+  "最後的敘述者": {
+    "type": "CE",
+    "star": 4
+  },
+  "梅菲斯托貴勒斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "志度內": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "清掃者": {
+    "type": "CE",
+    "star": 4
+  },
+  "黑之聖杯": {
+    "type": "CE",
+    "star": 5
   }
 }
