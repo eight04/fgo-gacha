@@ -958,5 +958,41 @@
   "黑之聖杯": {
     "type": "CE",
     "star": 5
+  },
+  "迪爾姆德．奧德那": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "阿特拉斯的嬰兒": {
+    "type": "CE",
+    "star": 5
+  },
+  "豔陽之下": {
+    "type": "CE",
+    "star": 5
+  },
+  "哪吒": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "衛宮": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "指令咏唱": {
+    "type": "CE",
+    "star": 4
+  },
+  "元素轉換": {
+    "type": "CE",
+    "star": 5
+  },
+  "阿塔蘭忒": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "阿喀琉斯": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
