@@ -994,5 +994,13 @@
   "阿喀琉斯": {
     "type": "SERVANT",
     "star": 5
+  },
+  "吉爾．德．萊斯[Saber]": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "蘭斯洛特[Saber]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
