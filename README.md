@@ -1,4 +1,4 @@
-這個 REPO 記錄了在 Fate/Grand Order 台服，2-2 女武神單PU卡池的抽卡結果。
+這個 REPO 記錄了在 Fate/Grand Order B服，魔法少女復刻，梅芙+美遊PU卡池的抽卡結果。
 
 抽卡資訊
 -------
