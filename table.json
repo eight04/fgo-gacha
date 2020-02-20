@@ -1002,5 +1002,33 @@
   "蘭斯洛特[Saber]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "女王梅芙": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "手無寸鐵傎二君": {
+    "type": "CE",
+    "star": 3
+  },
+  "深閨麗人": {
+    "type": "CE",
+    "star": 3
+  },
+  "美遊．艾德費爾特": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "寶藏院": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "庫．丘林[Prototype]": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "帕爾瓦蒂": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
