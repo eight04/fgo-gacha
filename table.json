@@ -1106,5 +1106,25 @@
   "布倫希爾德[夏]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "騎士的衿持": {
+    "type": "CE",
+    "star": 4
+  },
+  "威廉．泰爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "貝爾武夫": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "蓋烏斯．尤利烏斯．凱撒": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "伊莉雅絲菲爾．馮．愛因茲貝倫[夏]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
