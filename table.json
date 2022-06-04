@@ -1070,5 +1070,41 @@
   "阿比蓋兒．威廉斯[夏]": {
     "type": "SERVANT",
     "star": 5
+  },
+  "崇高的碎片": {
+    "type": "CE",
+    "star": 3
+  },
+  "馮．霍恩海姆．帕拉塞爾斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "俵滕太": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "遠方的前路": {
+    "type": "CE",
+    "star": 4
+  },
+  "殺生院祈荒[夏]": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "海德拉匕首": {
+    "type": "CE",
+    "star": 3
+  },
+  "那日之後": {
+    "type": "CE",
+    "star": 3
+  },
+  "甜蜜湖泊": {
+    "type": "CE",
+    "star": 5
+  },
+  "布倫希爾德[夏]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
