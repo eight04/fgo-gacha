@@ -1030,5 +1030,45 @@
   "帕爾瓦蒂": {
     "type": "SERVANT",
     "star": 4
+  },
+  "死黨燒烤": {
+    "type": "CE",
+    "star": 3
+  },
+  "恐怖禮賓員": {
+    "type": "CE",
+    "star": 3
+  },
+  "野心的開端": {
+    "type": "CE",
+    "star": 4
+  },
+  "曼迪卡爾多": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "巴御前[Saber]": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "攀登對戰": {
+    "type": "CE",
+    "star": 4
+  },
+  "快樂_兜風": {
+    "type": "CE",
+    "star": 4
+  },
+  "紫式部[Rider]": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "無瑕之藍": {
+    "type": "CE",
+    "star": 5
+  },
+  "阿比蓋兒．威廉斯[夏]": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
