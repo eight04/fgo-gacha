@@ -1126,5 +1126,37 @@
   "伊莉雅絲菲爾．馮．愛因茲貝倫[夏]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "Mystery_Treasure": {
+    "type": "CE",
+    "star": 5
+  },
+  "布拉達曼特": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "Greatest_Ocean": {
+    "type": "CE",
+    "star": 4
+  },
+  "Color_Me_True": {
+    "type": "CE",
+    "star": 3
+  },
+  "燕青": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "喀耳刻": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "蘭陵王": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "梵谷": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
