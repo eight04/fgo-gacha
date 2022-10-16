@@ -1158,5 +1158,53 @@
   "梵谷": {
     "type": "SERVANT",
     "star": 5
+  },
+  "春之琴弦": {
+    "type": "CE",
+    "star": 5
+  },
+  "魔性萻薩": {
+    "type": "CE",
+    "star": 5
+  },
+  "笑爐常開福自來": {
+    "type": "CE",
+    "star": 4
+  },
+  "烕廉．泰爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "勇敢之人": {
+    "type": "CE",
+    "star": 3
+  },
+  "拉克西米．芭伊": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "神之舌": {
+    "type": "CE",
+    "star": 3
+  },
+  "星球鎖定": {
+    "type": "CE",
+    "star": 4
+  },
+  "豆沙公主": {
+    "type": "CE",
+    "star": 5
+  },
+  "黃金樹的系譜": {
+    "type": "CE",
+    "star": 3
+  },
+  "律動詩節": {
+    "type": "CE",
+    "star": 4
+  },
+  "太空伊絲塔": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
