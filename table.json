@@ -1206,5 +1206,29 @@
   "太空伊絲塔": {
     "type": "SERVANT",
     "star": 5
+  },
+  "苦澀珠寶": {
+    "type": "CE",
+    "star": 4
+  },
+  "巴御前": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "親愛的朋友": {
+    "type": "CE",
+    "star": 3
+  },
+  "王者的氣質": {
+    "type": "CE",
+    "star": 4
+  },
+  "鈴鹿御前": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "烹飪之心": {
+    "type": "CE",
+    "star": 5
   }
 }
