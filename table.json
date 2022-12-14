@@ -1230,5 +1230,13 @@
   "烹飪之心": {
     "type": "CE",
     "star": 5
+  },
+  "阿斯特蕾亞": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "埃莫": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
