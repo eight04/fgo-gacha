@@ -1250,5 +1250,17 @@
   "園中漫步": {
     "type": "CE",
     "star": 5
+  },
+  "虛數屬性": {
+    "type": "CE",
+    "star": 4
+  },
+  "帕西瓦爾": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "妖精騎士蘭斯洛特": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
