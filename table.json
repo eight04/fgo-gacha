@@ -1274,5 +1274,29 @@
   "狂舞曲": {
     "type": "CE",
     "star": 4
+  },
+  "天使之心": {
+    "type": "CE",
+    "star": 5
+  },
+  "叢林海盜": {
+    "type": "CE",
+    "star": 3
+  },
+  "粉紅海灘": {
+    "type": "CE",
+    "star": 4
+  },
+  "在斑斕之海的街角": {
+    "type": "CE",
+    "star": 3
+  },
+  "清少納言[Berserker]": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "迦摩[Avenger]": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
