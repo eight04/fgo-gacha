@@ -1298,5 +1298,25 @@
   "迦摩[Avenger]": {
     "type": "SERVANT",
     "star": 5
+  },
+  "Whydunit": {
+    "type": "CE",
+    "star": 5
+  },
+  "穗群原學園學生會長": {
+    "type": "CE",
+    "star": 3
+  },
+  "匱乏之人": {
+    "type": "CE",
+    "star": 3
+  },
+  "埃爾梅羅教室": {
+    "type": "CE",
+    "star": 3
+  },
+  "司馬懿": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
