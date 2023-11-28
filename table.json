@@ -1318,5 +1318,29 @@
   "司馬懿": {
     "type": "SERVANT",
     "star": 5
+  },
+  "情人節女巫們": {
+    "type": "CE",
+    "star": 5
+  },
+  "熱巧克力": {
+    "type": "CE",
+    "star": 3
+  },
+  "最後的敍述者": {
+    "type": "CE",
+    "star": 4
+  },
+  "冬之結晶": {
+    "type": "CE",
+    "star": 4
+  },
+  "阿塔蘭塔[Alter]": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "融化之愛": {
+    "type": "CE",
+    "star": 4
   }
 }
