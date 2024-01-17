@@ -1342,5 +1342,33 @@
   "融化之愛": {
     "type": "CE",
     "star": 4
+  },
+  "虎視眈眈": {
+    "type": "CE",
+    "star": 4
+  },
+  "天下往來": {
+    "type": "CE",
+    "star": 3
+  },
+  "幽冥娘娘": {
+    "type": "CE",
+    "star": 5
+  },
+  "布迪卡": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "阿基里斯": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "亨利．傑基爾與海德": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "徵氏姐妹": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
