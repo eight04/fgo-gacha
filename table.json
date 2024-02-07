@@ -1370,5 +1370,33 @@
   "徵氏姐妹": {
     "type": "SERVANT",
     "star": 5
+  },
+  "散點花": {
+    "type": "CE",
+    "star": 3
+  },
+  "腦力激盪": {
+    "type": "CE",
+    "star": 4
+  },
+  "慶祝回憶": {
+    "type": "CE",
+    "star": 5
+  },
+  "花之樂": {
+    "type": "CE",
+    "star": 4
+  },
+  "妖精騎士高文": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "瑪爾大": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "迪爾姆德．奧德利暗[Saber]": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
