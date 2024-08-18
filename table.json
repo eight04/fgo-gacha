@@ -1402,5 +1402,33 @@
   "大黑天": {
     "type": "SERVANT",
     "star": 4
+  },
+  "閒話休怠": {
+    "type": "CE",
+    "star": 5
+  },
+  "告解迷茫處": {
+    "type": "CE",
+    "star": 4
+  },
+  "黃飛虎": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "湖畔的天女": {
+    "type": "CE",
+    "star": 4
+  },
+  "以劍為鋤": {
+    "type": "CE",
+    "star": 3
+  },
+  "徐福": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "呼延灼": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
