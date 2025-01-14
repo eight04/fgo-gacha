@@ -1434,5 +1434,37 @@
   "弗蘭肯斯坦[Saber]": {
     "type": "SERVANT",
     "star": 4
+  },
+  "亨利傑基爾海德": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "偉大的母親": {
+    "type": "CE",
+    "star": 5
+  },
+  "Service_Games": {
+    "type": "CE",
+    "star": 3
+  },
+  "彭忒西勒亞": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "只信奉吾神": {
+    "type": "CE",
+    "star": 3
+  },
+  "蕈菇主題房間": {
+    "type": "CE",
+    "star": 4
+  },
+  "庫夫林Prototype": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "幼體迪亞馬特": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
