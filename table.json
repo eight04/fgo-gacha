@@ -1466,5 +1466,41 @@
   "幼體迪亞馬特": {
     "type": "SERVANT",
     "star": 5
+  },
+  "庫夫林": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "威廉泰爾": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "代價魔術": {
+    "type": "CE",
+    "star": 4
+  },
+  "聖職者的晚餐": {
+    "type": "CE",
+    "star": 4
+  },
+  "弗格斯馬克羅伊": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "庭園的守護者": {
+    "type": "CE",
+    "star": 4
+  },
+  "騎士德翁": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "蓋烏斯尤利烏斯凱撒": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "所多瑪之獸德拉科": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
