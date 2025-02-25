@@ -1502,5 +1502,37 @@
   "所多瑪之獸德拉科": {
     "type": "SERVANT",
     "star": 5
+  },
+  "巫覡八石跳": {
+    "type": "CE",
+    "star": 4
+  },
+  "查爾斯巴貝奇": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "錦之公主": {
+    "type": "CE",
+    "star": 5
+  },
+  "馮霍恩海姆帕拉塞爾斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "機關大師": {
+    "type": "CE",
+    "star": 3
+  },
+  "迪爾姆德奧德利暗": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "加藤段藏": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "果心居士": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
