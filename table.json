@@ -1566,5 +1566,29 @@
   "克洛伊馮愛因茲貝倫Avenger": {
     "type": "SERVANT",
     "star": 4
+  },
+  "無論疾病還是健康": {
+    "type": "CE",
+    "star": 3
+  },
+  "圓桌海灘": {
+    "type": "CE",
+    "star": 4
+  },
+  "莫德雷德": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "凱特庫米可科爾": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "美露莘Ruler": {
+    "type": "SERVANT",
+    "star": 5
+  },
+  "Ehre_Gandr": {
+    "type": "CE",
+    "star": 4
   }
 }
