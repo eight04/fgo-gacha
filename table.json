@@ -1590,5 +1590,41 @@
   "Ehre_Gandr": {
     "type": "CE",
     "star": 4
+  },
+  "反覆星雨": {
+    "type": "CE",
+    "star": 5
+  },
+  "微笑騎士": {
+    "type": "CE",
+    "star": 4
+  },
+  "限制零毀": {
+    "type": "CE",
+    "star": 5
+  },
+  "八叉之血脈": {
+    "type": "CE",
+    "star": 4
+  },
+  "克琳希德": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "仍在旅途": {
+    "type": "CE",
+    "star": 3
+  },
+  "免許皆傳": {
+    "type": "CE",
+    "star": 4
+  },
+  "芬恩麥克庫爾": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "旺吉娜": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
