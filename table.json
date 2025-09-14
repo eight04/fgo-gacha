@@ -1626,5 +1626,45 @@
   "旺吉娜": {
     "type": "SERVANT",
     "star": 5
+  },
+  "忒修斯": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "森長可": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "直到比富士還要更遙遠的地方": {
+    "type": "CE",
+    "star": 3
+  },
+  "戀愛咒語": {
+    "type": "CE",
+    "star": 5
+  },
+  "海道流星雨": {
+    "type": "CE",
+    "star": 5
+  },
+  "北之柳": {
+    "type": "CE",
+    "star": 4
+  },
+  "不會枯萎的花": {
+    "type": "CE",
+    "star": 3
+  },
+  "瓦爾基麗": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "夙願的繼承": {
+    "type": "CE",
+    "star": 4
+  },
+  "弗栗多": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
