@@ -1666,5 +1666,41 @@
   "弗栗多": {
     "type": "SERVANT",
     "star": 5
+  },
+  "牢籠": {
+    "type": "CE",
+    "star": 3
+  },
+  "黑魔術": {
+    "type": "CE",
+    "star": 5
+  },
+  "獵人之夢": {
+    "type": "CE",
+    "star": 4
+  },
+  "月之海的學生會": {
+    "type": "CE",
+    "star": 4
+  },
+  "Passionlip": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "我們的征途是星辰大海": {
+    "type": "CE",
+    "star": 5
+  },
+  "紫煙的追憶": {
+    "type": "CE",
+    "star": 4
+  },
+  "安妮伯妮瑪䒩利瑞德": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "殘花的迷宮": {
+    "type": "CE",
+    "star": 5
   }
 }
