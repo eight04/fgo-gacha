@@ -1702,5 +1702,41 @@
   "殘花的迷宮": {
     "type": "CE",
     "star": 5
+  },
+  "幻想種的美食之旅": {
+    "type": "CE",
+    "star": 4
+  },
+  "伊莉莎白巴托里": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "見證黑夜之人": {
+    "type": "CE",
+    "star": 4
+  },
+  "三咲的校舍": {
+    "type": "CE",
+    "star": 3
+  },
+  "人偶師的休息": {
+    "type": "CE",
+    "star": 5
+  },
+  "霧中情景": {
+    "type": "CE",
+    "star": 4
+  },
+  "Paraiso": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "秦良玉": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "渡邊綱": {
+    "type": "SERVANT",
+    "star": 4
   }
 }
