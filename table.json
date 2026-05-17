@@ -1738,5 +1738,21 @@
   "渡邊綱": {
     "type": "SERVANT",
     "star": 4
+  },
+  "Welcome_to_Expo": {
+    "type": "CE",
+    "star": 3
+  },
+  "空白的男人": {
+    "type": "CE",
+    "star": 4
+  },
+  "耀星的哈桑": {
+    "type": "SERVANT",
+    "star": 4
+  },
+  "埃列什基伽勒Beast": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
