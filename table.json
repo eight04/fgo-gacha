@@ -1758,5 +1758,17 @@
   "徐福Avenger": {
     "type": "SERVANT",
     "star": 4
+  },
+  "勝過世間一切寶石": {
+    "type": "CE",
+    "star": 5
+  },
+  "老爹的料理": {
+    "type": "CE",
+    "star": 3
+  },
+  "Kazuradrop": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
