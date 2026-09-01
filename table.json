@@ -1770,5 +1770,13 @@
   "Kazuradrop": {
     "type": "SERVANT",
     "star": 5
+  },
+  "願望的容器": {
+    "type": "CE",
+    "star": 4
+  },
+  "婁希": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
