@@ -1778,5 +1778,25 @@
   "婁希": {
     "type": "SERVANT",
     "star": 5
+  },
+  "謎之貓G": {
+    "type": "CE",
+    "star": 3
+  },
+  "歲末的禮物": {
+    "type": "CE",
+    "star": 4
+  },
+  "杉谷善住坊": {
+    "type": "SERVANT",
+    "star": 3
+  },
+  "於神聖之夜送上祝福": {
+    "type": "CE",
+    "star": 5
+  },
+  "Phantasmoon": {
+    "type": "SERVANT",
+    "star": 5
   }
 }
